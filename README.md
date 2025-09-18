@@ -7,7 +7,7 @@
 ---
 
 QR Code Generator 
-membuat Kode QR otomatis cuy 😱.
+membuat Kode QR otomatis .
 
 
 ### cara install
