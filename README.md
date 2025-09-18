@@ -9,6 +9,25 @@
 QR Code Generator 
 membuat Kode QR otomatis cuy 😱.
 
+
+### cara install
+
+$ pkg update && pkg upgrade 
+
+$ pkg install git
+
+$ pkg install bash 
+
+$ gitu clone https://github.com/H0Xcysecom/QRCodeGeneratorwolf.git
+
+$ cd QRCodeGeneratorwolf
+
+$ ls 
+
+$ bash QRCodeGeneratorwolf.sh
+
+---
+
 Fitur:
 
 · ✅ Generate QR code untuk URL website
