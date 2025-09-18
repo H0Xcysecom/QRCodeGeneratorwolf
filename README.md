@@ -6,7 +6,7 @@
 
 ---
 
-QR Code Generator 
+### QR Code Generator 
 membuat Kode QR otomatis .
 
 
