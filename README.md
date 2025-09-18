@@ -12,19 +12,21 @@ membuat Kode QR otomatis .
 
 ### cara install
 
-$ pkg update && pkg upgrade 
+---
 
-$ pkg install git
+> $ pkg update && pkg upgrade 
 
-$ pkg install bash 
+> $ pkg install git
 
-$ gitu clone https://github.com/H0Xcysecom/QRCodeGeneratorwolf.git
+> $ pkg install bash 
 
-$ cd QRCodeGeneratorwolf
+> $ gitu clone https://github.com/H0Xcysecom/QRCodeGeneratorwolf.git
 
-$ ls 
+> $ cd QRCodeGeneratorwolf
 
-$ bash QRCodeGeneratorwolf.sh
+> $ ls 
+
+> $ bash QRCodeGeneratorwolf.sh
 
 ---
 
