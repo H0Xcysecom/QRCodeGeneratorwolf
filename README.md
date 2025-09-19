@@ -20,7 +20,7 @@ membuat Kode QR otomatis .
 
 > $ pkg install bash 
 
-> $ gitu clone https://github.com/H0Xcysecom/QRCodeGeneratorwolf.git
+> $ git clone https://github.com/H0Xcysecom/QRCodeGeneratorwolf.git
 
 > $ cd QRCodeGeneratorwolf
 
